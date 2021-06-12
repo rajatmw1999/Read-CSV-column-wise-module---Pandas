@@ -1,4 +1,4 @@
-## STEPS TO SETUP AND USE readcsv.py
+##STEPS TO SETUP AND USE readcsv.py
 
 
 1. Create a virtual environment in python and activate it
