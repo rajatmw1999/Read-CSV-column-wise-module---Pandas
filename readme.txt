@@ -24,3 +24,5 @@ NOTE: CREATING THE VIRTUAL ENVIRONMENT AND ACTIVATING MAY VARY FROM OS TO OS(LIN
 REFER TO THE LINK BELOW FOR MORE.
 
 https://www.liquidweb.com/kb/creating-virtual-environment-ubuntu-16-04/
+
+https://drive.google.com/file/d/17iEGOXbRBpKkAbQC_eiwhBnREywAaDpb/view?usp=sharing
